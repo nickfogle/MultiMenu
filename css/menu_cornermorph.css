@@ -144,6 +144,12 @@ body,
 	color: rgba(125,129,148,0.5);
 }
 
+/* Remove Focus */
+
+button#open-button:focus {
+outline: none;
+}
+
 /* Shown menu */
 .show-menu .content::before {
 	opacity: 1;
