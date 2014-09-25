@@ -70,8 +70,8 @@ body,
 	width: 0;
 	height: 0;
 	font-size: 1.5em;
-	bottom: 1em;
-	left: 1em;
+	bottom: .25em;
+	left: .25em;
 	-webkit-transform-origin: 0% 100%;
 	transform-origin: 0% 100%;
 }
