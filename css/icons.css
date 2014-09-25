@@ -21,6 +21,7 @@
 	margin-right: 0.6em;
 	-webkit-font-smoothing: antialiased;
 }
+
 .icon-female:before {
 	content: "\f182";
 }
